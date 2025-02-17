@@ -1,0 +1,22 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "HelloApi",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/sayHello": {
+      "get": {
+        "tags": [
+          "HelloApi"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

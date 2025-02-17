@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "HelloApi.Endpoints.HelloEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CAddHelloEndpoints\u003Eb__0_0",
+    "RelativePath": "api/sayHello",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

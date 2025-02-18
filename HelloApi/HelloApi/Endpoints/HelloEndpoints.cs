@@ -6,7 +6,7 @@ public static class HelloEndpoints
     {
         var endpoint = app.MapGroup("/api");
 
-        endpoint.MapGet("/sayHello", () => Results.Ok("Hello!"));
+        endpoint.MapGet("/sayHello", () => Results.Ok("Hello World!"));
 
         return app;
     }
